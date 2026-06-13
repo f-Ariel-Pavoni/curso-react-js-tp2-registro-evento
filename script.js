@@ -9,7 +9,7 @@ const validarFormulario = (e) => {
   e.preventDefault();
 
   const edad = Number(edadInput.value);
-  const nombre = nombreInput.value;
+  const nombre = nombreInput.value.trim();
 
   if (edad >= 18) {
     mensaje.textContent = `✅ Bienvenido, ${nombre}, tienes acceso al evento.`;
