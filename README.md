@@ -50,13 +50,17 @@ cd curso-react-js-tp2-registro-evento
 
 ## Capturas de pantalla
 
+### Formulario
+
+![Acceso permitido](assets/screenshots/form.png)
+
 ### Acceso permitido
 
-![Acceso permitido](assets/screenshots/acceso-permitido.png)
+![Acceso permitido](assets/screenshots/form_validacion_exito.png)
 
 ### Acceso denegado
 
-![Acceso denegado](assets/screenshots/acceso-denegado.png)
+![Acceso denegado](assets/screenshots/form_validacion_error.png)
 
 ## Autor
 
